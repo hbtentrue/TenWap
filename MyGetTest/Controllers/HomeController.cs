@@ -11,7 +11,7 @@ namespace MyGetTest.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            var sth = "简单的创建一个存储库";
+            var sth = "简单ds的创建一个存储库";
             return Content(sth);
         }
     }
